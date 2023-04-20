@@ -1,4 +1,4 @@
-![alfa romeo front](https://github.com/tabburn/Portfolio/blob/main/1985%20Vehicle%20Appraisal%20Price%20Prediction/resources/alfa_romeo_hero.jpg)
+![alfa romeo front](https://github.com/tabburn/1985-vehicle-appraisal/blob/main/resources/alfa_romeo_hero.jpg)
 
 # 1985 Vehicle Appraisal Price Prediction
 This project uses the dataset from [Ward's 1985 Automotive Yearbook](https://archive.ics.uci.edu/ml/datasets/automobile), provided by UC Irvine's Machine Learning Repository, to create a prediction model to better appraise used vehicles.
