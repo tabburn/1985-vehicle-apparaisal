@@ -4,7 +4,7 @@
 This project uses the dataset from [Ward's 1985 Automotive Yearbook](https://archive.ics.uci.edu/ml/datasets/automobile), provided by UC Irvine's Machine Learning Repository, to create a prediction model to better appraise used vehicles.
 
 ## Table of Contents
-> [1985 Vehicle Appraisal Price Prediction](#1985-Vehicle-Appraisal-Price-Prediction)\
+> [Title](#1985-Vehicle-Appraisal-Price-Prediction)\
 > [Table of Contents](#Table-of-Contents)\
 > [Summary](#Summary)\
 > [Methods Used](#Methods-Used)\
