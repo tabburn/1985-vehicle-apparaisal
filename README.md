@@ -8,6 +8,7 @@ This project uses the dataset from [Ward's 1985 Automotive Yearbook](https://arc
 > [Table of Contents](#Table-of-Contents)\
 > [Summary](#Summary)\
 > [Methods Used](#Methods-Used)\
+> [Libraries](#Libraries)\
 > [Technologies](#Technologies)\
 > [Contact Me](#Contact-Me)
 
